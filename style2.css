@@ -1,0 +1,11 @@
+body{
+	background: url(papich.png) no-repeat;
+}
+h1{
+	font-family:RomanS;
+	position:fixed;
+	margin: 400px;
+	font-size:50px;
+	font-weight:900;
+	width:800px;
+}
